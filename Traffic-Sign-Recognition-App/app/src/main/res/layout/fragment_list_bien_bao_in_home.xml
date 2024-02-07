@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.ListBienBaoInHomeFragment"
+    android:background="@drawable/background_2_intro"
+    >
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarMain"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@drawable/background_navigation_toolbar"
+        android:elevation="2dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:title="Traffic Signs In Vietnam"
+        app:titleTextColor="@color/white"
+        />
+
+    <com.facebook.shimmer.ShimmerFrameLayout
+        android:id="@+id/shimmer_listBienBao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                >
+
+                <include layout="@layout/shimmer_item">
+
+                </include>
+
+                <include layout="@layout/shimmer_item">
+
+                </include>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                >
+
+                <include layout="@layout/shimmer_item">
+
+                </include>
+
+                <include layout="@layout/shimmer_item">
+
+                </include>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+
+                >
+
+                <include layout="@layout/shimmer_item">
+
+                </include>
+
+                <include layout="@layout/shimmer_item">
+
+                </include>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </com.facebook.shimmer.ShimmerFrameLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_bienbaolistfraghome"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        app:layout_editor_absoluteX="1dp"
+        app:layout_editor_absoluteY="1dp"
+        tools:visibility="gone" />
+
+</LinearLayout>

@@ -1,0 +1,164 @@
+[
+    {
+        "Id": 1,
+        "Code": "P.102",
+        "Content": "Biển báo cấm đi ngược chiều.",
+        "url": "https://i.imgur.com/w6lRRQo.png"
+    },
+    {
+        "Id": 2,
+        "Code": "P.103a",
+        "Content": "Biển báo cấm ô tô.",
+        "url": "https://i.imgur.com/FfqCzSS.png"
+    },
+    {
+        "Id": 3,
+        "Code": "P.104",
+        "Content": "Biển báo cấm mô tô.",
+        "url": "https://i.imgur.com/aLX7y2E.png"
+    },
+    {
+        "Id": 4,
+        "Code": "P.106a",
+        "Content": "Biển báo cấm xe tải.",
+        "url": "https://i.imgur.com/UBXTZsv.png"
+    },
+    {
+        "Id": 5,
+        "Code": "P.112",
+        "Content": "Biển báo cấm người đi bộ.",
+        "url": "https://i.imgur.com/b9BoUZE.png"
+    },
+    {
+        "Id": 6,
+        "Code": "P.117",
+        "Content": "Biển báo hạn chế chiều cao.",
+        "url": "https://i.imgur.com/pkNXyfO.png"
+    },
+    {
+        "Id": 7,
+        "Code": "P.123a",
+        "Content": "Biển báo cấm rẽ trái.",
+        "url": "https://i.imgur.com/T0f6SOI.png"
+    },
+    {
+        "Id": 8,
+        "Code": "P.123b",
+        "Content": "Biển báo cấm rẽ phải.",
+        "url": "https://i.imgur.com/4uGpZ5c.png"
+    },
+    {
+        "Id": 9,
+        "Code": "P.124a",
+        "Content": "Biển báo cấm quay đầu xe.",
+        "url": "https://i.imgur.com/AqAfHvV.png"
+    },
+    {
+        "Id": 10,
+        "Code": "P.127",
+        "Content": "Biển báo giới hạn tốc độ.",
+        "url": "https://i.imgur.com/R94rsMz.png"
+    },
+    {
+        "Id": 11,
+        "Code": "P.130",
+        "Content": "Biển báo cấmIdừng và đỗ xe..",
+        "url": "https://i.imgur.com/FZkJWq5.png"
+    },
+    {
+        "Id": 12,
+        "Code": "P.131a",
+        "Content": "Biển báo cấm đỗ xe.",
+        "url": "https://i.imgur.com/um7ATk0.png"
+    },
+    {
+        "Id": 13,
+        "Code": "R.30Id",
+        "Content": "Biển báo các phương tiện chỉ đươc rẽ phải.",
+        "url": "https://i.imgur.com/zIdVtEq.png"
+    },
+    {
+        "Id": 14,
+        "Code": "R.301e",
+        "Content": "Biển báo các phương tiện chỉ được rẽ trái.",
+        "url": "https://i.imgur.com/UxTz0Id.png"
+    },
+    {
+        "Id": 15,
+        "Code": "R.302a",
+        "Content": "Biển báo hướng phải đi vòng chướng ngại vật qua phải.",
+        "url": "https://i.imgur.com/Bn2CUIf.png"
+    },
+    {
+        "Id": 16,
+        "Code": "R.303",
+        "Content": "Biển báo nơi giao nhau chạy theo vòng xuyến.",
+        "url": "https://i.imgur.com/4OVsSfl.png"
+    },
+    {
+        "Id": 17,
+        "Code": "R.407a",
+        "Content": "Biển báo đường một chiều.",
+        "url": "https://i.imgur.com/lBV2wgi.png"
+    },
+    {
+        "Id": 18,
+        "Code": "W.201a",
+        "Content": "Biển báo chỗ ngoặt nguy hiểm vòng bên trái.",
+        "url": "https://i.imgur.com/WYkrtnK.png"
+    },
+    {
+        "Id": 19,
+        "Code": "W.201b",
+        "Content": "Biển báo chỗ ngoặt nguy hiểm vòng bên phải.",
+        "url": "https://i.imgur.com/Ok6jIIf.png"
+    },
+    {
+        "Id": 20,
+        "Code": "W.203b",
+        "Content": "Biển báo đường bị hẹp về phía trái.",
+        "url": "https://i.imgur.com/if8Rr2c.png"
+    },
+    {
+        "Id": 21,
+        "Code": "W.203c",
+        "Content": "Biển báo đường bị hẹp về phía phải.",
+        "url": "https://i.imgur.com/ML7CC83.png"
+    },
+    {
+        "Id": 22,
+        "Code": "W.205a",
+        "Content": "Biển báo đường giao nhau.",
+        "url": "https://i.imgur.com/02nIdm5.png"
+    },
+    {
+        "Id": 23,
+        "Code": "W.207",
+        "Content": "Biển báo giao nhau với đường không ưu tiên..",
+        "url": "https://i.imgur.com/NpWf8R3.png"
+    },
+    {
+        "Id": 24,
+        "Code": "W.208",
+        "Content": "Biển báo giao nhau với đường ưu tiên.",
+        "url": "https://i.imgur.com/tcScj51.png"
+    },
+    {
+        "Id": 25,
+        "Code": "W.219",
+        "Content": "Biển báoIdốc xuống nguy hiểm.",
+        "url": "https://i.imgur.com/jrVEVLz.png"
+    },
+    {
+        "Id": 26,
+        "Code": "W.224",
+        "Content": "Biển báo đường người đi bộ cắt ngang.",
+        "url": "https://i.imgur.com/5pqM2kM.png"
+    },
+    {
+        "Id": 27,
+        "Code": "W.245a",
+        "Content": "Biển báo đi chậm.",
+        "url": "https://i.imgur.com/IdAO9Bo.png"
+    }
+]
